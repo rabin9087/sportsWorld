@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47211302387",
+    "project_id": "sportsworldotpvs",
+    "storage_bucket": "sportsworldotpvs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47211302387:android:fd654663b5992bbe2a1686",
+        "android_client_info": {
+          "package_name": "com.example.sportsworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47211302387-euaps1ij443vlskp30q119rsqnl17vcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGH1bf3LOZh7O8LZw7TClKiUnF9PxAj1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47211302387-euaps1ij443vlskp30q119rsqnl17vcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
